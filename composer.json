@@ -1,0 +1,10 @@
+{
+    "name": "gw-gravity-forms-custom-js/gw-gravity-forms-custom-js",
+    "type": "wordpress-plugin",
+    "description": "Source: https://gravitywiz.com/gravity-forms-custom-javascript/",
+    "authors": [
+        {
+            "name": "gw-gravity-forms-custom-js"
+        }
+    ]
+}
